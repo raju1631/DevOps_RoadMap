@@ -1,0 +1,114 @@
+DEVOPS_ROADMAP:
+   - SDLC: 
+       Concept: SOFTWARE DEVELOPEMENT LIFE CYCLE
+   - DEVOPS:
+        WHY: Why Devops and what is the efficiency way to approach Devops
+        process: what is the process of Devops
+   - NETWORKING:
+        - IP-ADDRESS
+        - CIDR
+        - OSI MODEL
+         Advance Networking:
+                 -DNS
+                 -CBN
+                 -SUBNETS
+                 -CIDR
+   
+   - LINUX:
+        - UBUNTU
+        - CENTOS
+        - Theory of Linux Commands
+        - Pratical of Linux Commands
+        - Shell Scripting
+        -Interview_questions of Linux
+        
+    - GIT:
+        commads            : Git Commands and why it is used
+        Branching_Strategy : Git Branching Stargeies
+        hub                : git hub pratical
+        Interview_questions: Git interview Questions
+        
+    - Jenkins:
+          pipeline: theory and praticals of CI/CD
+          Secrets stores: Hashicorp_vault 
+          CI/CD: Implementation with Hashicorp_vault
+          Interview_questions: inter_questions of Jenkins
+    
+    - Ansible:
+         why: why ansible theory and Pratical
+         Interview_questions: inter_questions of Ansible
+    - Docker:
+    
+         why: Why Docker theory and pratical
+         
+    - Kubernetes:
+          why: why Kubernetes theory and pratical
+            -kubernetes architecture
+            -pod
+            -deployment
+            -service
+            -ingress 
+            -helm charts
+            -custom resources
+            -RBAC
+            -OIDC Provider
+            -Deployment Startegy
+            -SSLC/TLC Certification 
+            
+Virtualization:
+        -what is cloud?
+        -what is cloud computing?
+        - what is Virtualization?
+        - What is Public cloud , private cloud and Hybrid cloud?
+        - What is IAAS, PAAS AND SAAS?
+        - What is IAC?
+        -Python Basics:::
+          
+           
+ cloud Services: 
+        AWS:
+           Depends: Depends on your interest select your Cloud Platform
+        AWS_Services:
+               -EC2
+               -S3
+               -EBS
+               -Cloudwatch
+               -ECR
+               -Cloudfront
+               -Aws Lambda Functions
+               -AWS Code commit
+               -Aws Code build
+               -Aws Code pipeline
+               -Aws Code deploy
+               -AWS Config
+               -EKS
+               -AWS CLI
+               -VPC
+               -NACL
+               -NAT GATEWAY
+               -INTERNET GATEWAY
+               -SUBNETS
+        Terraform: Terraform for AWS
+               
+           
+        Azure:
+            Depends: Depends on your interest select your Cloud Platform
+        Azure_Resources:
+               - V'M
+               -Azure NETWORKING
+               -Azure storage Services
+               -Azure CLI
+               -Azure identity and Access Management (IAM)
+               -Azure DevOPS
+               -Azure CI/CD
+               -Azure DevOPS Scenario based questions
+               -AKS vs Self Managed Cluster
+               -Azure Keyvalut
+               -Azure Serverless
+               -Event Driven Serverless Architecture on Azure Platform
+               
+        Terraform: Terraform for Azure
+               
+Python:
+    Advance: Advance python 
+    Must: Python must and should for scripting 
